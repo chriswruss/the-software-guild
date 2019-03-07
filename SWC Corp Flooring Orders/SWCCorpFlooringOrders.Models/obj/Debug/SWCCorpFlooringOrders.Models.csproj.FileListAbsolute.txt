@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Repos\TSG.NET\SWC Corp Flooring Orders\SWCCorpFlooringOrders.Models\bin\Debug\SWCCorpFlooringOrders.Models.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\SWC Corp Flooring Orders\SWCCorpFlooringOrders.Models\bin\Debug\SWCCorpFlooringOrders.Models.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\SWC Corp Flooring Orders\SWCCorpFlooringOrders.Models\obj\Debug\SWCCorpFlooringOrders.Models.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\SWC Corp Flooring Orders\SWCCorpFlooringOrders.Models\obj\Debug\SWCCorpFlooringOrders.Models.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\SWC Corp Flooring Orders\SWCCorpFlooringOrders.Models\obj\Debug\SWCCorpFlooringOrders.Models.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\SWC Corp Flooring Orders\SWCCorpFlooringOrders.Models\obj\Debug\SWCCorpFlooringOrders.Models.csprojAssemblyReference.cache

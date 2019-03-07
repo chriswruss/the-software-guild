@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\bin\Release\BattleShip.BLL.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\bin\Release\BattleShip.BLL.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Release\BattleShip.BLL.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Release\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Release\BattleShip.BLL.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Release\BattleShip.BLL.pdb

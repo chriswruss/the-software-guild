@@ -1,0 +1,6 @@
+C:\TSG.NET\chris-russ-individual-work\HelloGuild\HelloGuild\bin\Debug\HelloGuild.exe.config
+C:\TSG.NET\chris-russ-individual-work\HelloGuild\HelloGuild\bin\Debug\HelloGuild.exe
+C:\TSG.NET\chris-russ-individual-work\HelloGuild\HelloGuild\bin\Debug\HelloGuild.pdb
+C:\TSG.NET\chris-russ-individual-work\HelloGuild\HelloGuild\obj\Debug\HelloGuild.csproj.CoreCompileInputs.cache
+C:\TSG.NET\chris-russ-individual-work\HelloGuild\HelloGuild\obj\Debug\HelloGuild.exe
+C:\TSG.NET\chris-russ-individual-work\HelloGuild\HelloGuild\obj\Debug\HelloGuild.pdb

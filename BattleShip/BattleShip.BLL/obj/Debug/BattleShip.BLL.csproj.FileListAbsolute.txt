@@ -1,0 +1,11 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

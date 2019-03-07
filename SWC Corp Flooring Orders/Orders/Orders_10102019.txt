@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,chris,PA,5.25,Carpet,100.00,2.25,2.10,225.00,210.00,22.84,457.84
+5,john,OH,6.25,Laminate,105.00,1.75,2.10,183.75,220.50,25.27,429.52

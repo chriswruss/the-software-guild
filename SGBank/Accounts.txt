@@ -1,0 +1,6 @@
+AccountNumber,Name,Balance,Type
+111,Chris,499800,P
+222,Steve Harvey,10000000000,B
+333,John,100,F
+444,Basic,300,B
+555,Premium,300,P

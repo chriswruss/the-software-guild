@@ -1,0 +1,7 @@
+C:\Repos\chris-russ-individual-work\DogGenetics\DogGenetics\bin\Debug\DogGenetics.exe.config
+C:\Repos\chris-russ-individual-work\DogGenetics\DogGenetics\bin\Debug\DogGenetics.exe
+C:\Repos\chris-russ-individual-work\DogGenetics\DogGenetics\bin\Debug\DogGenetics.pdb
+C:\Repos\chris-russ-individual-work\DogGenetics\DogGenetics\obj\Debug\DogGenetics.csprojAssemblyReference.cache
+C:\Repos\chris-russ-individual-work\DogGenetics\DogGenetics\obj\Debug\DogGenetics.csproj.CoreCompileInputs.cache
+C:\Repos\chris-russ-individual-work\DogGenetics\DogGenetics\obj\Debug\DogGenetics.exe
+C:\Repos\chris-russ-individual-work\DogGenetics\DogGenetics\obj\Debug\DogGenetics.pdb

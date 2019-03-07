@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\nunit.engine.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\nunit.engine.api.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\BattleShip.UI.exe.config
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\BattleShip.UI.exe
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\BattleShip.UI.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\BattleShip.BLL.dll
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\bin\Release\BattleShip.BLL.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\obj\Release\BattleShip.UI.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\obj\Release\BattleShip.UI.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\obj\Release\BattleShip.UI.csproj.CopyComplete
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\obj\Release\BattleShip.UI.exe
+C:\Users\chris\OneDrive\Repos\TSG.NET\BattleShip\BattleShip.UI\obj\Release\BattleShip.UI.pdb

@@ -1,0 +1,13 @@
+Create a start menu / splash screen for the game.
+Randomly determine which player goes first.
+Create a game workflow object that will contain two boards, keep track of which player's turn it is, and process each player's turn.
+A player's turn is as follows:
+
+    Show a grid with marks from the their board's shot history. Place a yellow M in a coordinate if a shot has been fired and missed 
+	at that location or a red H if a shot has been fired that has hit.
+    Prompt the user for a coordinate entry (ex: B10).
+    Validate the entry; if valid, create a coordinate object, convert the letter to a number, and call the opponent board's FireShot() method.
+    Retrieve the response from the FireShot method and display an appropriate message to the user.
+    Remember to prompt to continue and clear the screen to keep things clean.
+
+When the game ends, prompt the players if they would like to play again. If so, go back to setting up the boards. If not, quit the program.

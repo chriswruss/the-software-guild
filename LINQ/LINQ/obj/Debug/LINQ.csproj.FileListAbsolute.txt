@@ -1,0 +1,9 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\03-Collections-LINQ-SystemIO-DateTime\Asssessments\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\bin\Debug\Customers.xml
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\chris\OneDrive\Repos\TSG.NET\LINQ\LINQ\obj\Debug\LINQ.pdb
