@@ -1,7 +1,0 @@
-C:\Repos\chris-russ-individual-work\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
-C:\Repos\chris-russ-individual-work\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
-C:\Repos\chris-russ-individual-work\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
-C:\Repos\chris-russ-individual-work\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
-C:\Repos\chris-russ-individual-work\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
-C:\Repos\chris-russ-individual-work\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
-C:\Repos\chris-russ-individual-work\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

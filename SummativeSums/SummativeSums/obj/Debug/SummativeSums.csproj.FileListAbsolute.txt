@@ -1,6 +1,0 @@
-C:\Repos\chris-russ-individual-work\SummativeSums\SummativeSums\bin\Debug\SummativeSums.exe.config
-C:\Repos\chris-russ-individual-work\SummativeSums\SummativeSums\bin\Debug\SummativeSums.exe
-C:\Repos\chris-russ-individual-work\SummativeSums\SummativeSums\bin\Debug\SummativeSums.pdb
-C:\Repos\chris-russ-individual-work\SummativeSums\SummativeSums\obj\Debug\SummativeSums.csproj.CoreCompileInputs.cache
-C:\Repos\chris-russ-individual-work\SummativeSums\SummativeSums\obj\Debug\SummativeSums.exe
-C:\Repos\chris-russ-individual-work\SummativeSums\SummativeSums\obj\Debug\SummativeSums.pdb

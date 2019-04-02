@@ -1,7 +1,0 @@
-C:\Repos\chris-russ-individual-work\HealthyHearts\HealthyHearts\bin\Debug\HealthyHearts.exe.config
-C:\Repos\chris-russ-individual-work\HealthyHearts\HealthyHearts\bin\Debug\HealthyHearts.exe
-C:\Repos\chris-russ-individual-work\HealthyHearts\HealthyHearts\bin\Debug\HealthyHearts.pdb
-C:\Repos\chris-russ-individual-work\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.csprojAssemblyReference.cache
-C:\Repos\chris-russ-individual-work\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.csproj.CoreCompileInputs.cache
-C:\Repos\chris-russ-individual-work\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.exe
-C:\Repos\chris-russ-individual-work\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.pdb
